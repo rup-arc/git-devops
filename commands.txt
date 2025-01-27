@@ -1,0 +1,65 @@
+Day 1 command
+git init
+    ls -a
+    git statuis
+    git status
+    git add test.py
+    clear
+    git status
+    git rm --cached test.py
+    git status
+    git add .
+    git status
+    clear
+    git status
+    git commit -m "added testing files"
+    git config --global user.email rd8851188@gmail.com
+    git config --global user.name rup-arc
+  git commit -m "added testing file"
+    git status
+    rm test.py
+    git status
+    git restore test.py
+    clear
+    git status
+    history
+git add.
+Day 2 command
+    git add git_commands.txt
+    git status
+    git commit -m "storing all commmands for git"
+    git status
+    git remote add origin https://github.com/rup-arc/GIT-FOR-DEVOPS.git
+    git remote -v
+    git remote set-url origin
+    git remote set-url --push https:/tokennnnnn/rup-arc/GIT-FOR-DEVOPS.git
+    git remote set-url origin
+  git remote set-url https:/tokennnnnn/rup-arc/GIT-FOR-DEVOPS.git
+    git remote set-url origin https://rup-arc:tokennnnnn@github.com/rup-arc/GIT-FOR-DEVOPS.git
+    git remote -v
+    git push origin master
+  git remote -v
+    git branch
+    git push origin main
+git pull origin main
+   git branch 
+  git branch dev
+    git branch 
+    git switch dev
+    git status
+ git add this_is_from_dev.txt
+    git commit -m "added a dev file"
+    git switch main
+    ls
+   git log
+    git log --oneline
+    git status
+    git checkout dev
+    git log --oneline
+    git status
+    git push origin dev
+    git switch main
+    git pull origin main
+git clone urssh 
+
+day 3 of commands
