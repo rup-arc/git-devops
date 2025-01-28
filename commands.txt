@@ -63,3 +63,28 @@ git pull origin main
 git clone urssh 
 
 day 3 of commands
+pipx install flake8
+   flake8 demo.py
+    cd .git/hooks
+    ls -l pre-commit
+    chmod 777 pre-commit
+    cd ..
+    git status
+  git add demo.py
+    git commit -m"aded code"
+    git commit -m "add the code"
+    clear
+    git branch
+    git switch master
+    git add test.py
+    git commit -m "add the code"
+    git push origin master
+    git pull origin master
+    git pull origin master --master
+    git pull origin master --rebase
+    git push origin master
+
+
+
+
+u can learn github action and can deploy a static website using s3 the repo is given use those html ,css,javascript to host the website
